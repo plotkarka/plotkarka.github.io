@@ -1,8 +1,8 @@
 html {
-    font-family: arial;
+    font-family: Arial,sans-serif;
 }
 header {
-    
+    font-size: 34px;
 }
 header > h1, body > p, body > main, nav, footer > address, footer > p {
     max-width: 987px;
@@ -10,7 +10,7 @@ header > h1, body > p, body > main, nav, footer > address, footer > p {
 }
 nav a {
     text-decoration: none;
-    font-size: 14px;
+    font-size: 13px;
 }
 footer {
     margin-top: 100px;

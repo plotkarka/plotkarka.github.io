@@ -9,3 +9,8 @@ header > h1, body > p, body > main, body > nav, footer > address, footer > p {
     margin-left: auto;
     margin-right: auto;
 }
+footer {
+    background: #648ff1;
+    color: white;
+    margin-top: 100px;
+}

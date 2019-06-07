@@ -4,3 +4,8 @@ html {
 header {
     border-bottom: 1px solid silver;
 }
+header > h1, body > p, body > main, body > nav, footer > address, footer > p {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}

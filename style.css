@@ -1,10 +1,11 @@
 html {
-    font-family: Arial,sans-serif;
+    font-family: Arial, sans-serif;
+    color: 
 }
 header {
-    font-size: 34px;
+    font-size: 21px;
 }
-header > h1, body > p, body > main, nav, footer > address, footer > p {
+body {
     max-width: 987px;
     margin: auto;
 }

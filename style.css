@@ -5,6 +5,9 @@ html {
 header {
     font-size: 21px;
 }
+h1 {
+  vertical-align: middle;
+}
 body {
     max-width: 987px;
     margin: auto;

@@ -31,4 +31,7 @@ footer {
     header {
         font-size: 13px;
     }
+    header img {
+    width: 32px;
+    }
 }

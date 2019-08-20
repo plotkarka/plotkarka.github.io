@@ -24,3 +24,8 @@ nav a:hover {
 footer {
     margin-top: 100px;
 }
+@media (max-width: 900px) {
+    header {
+        font-size: 13px;
+    }
+}

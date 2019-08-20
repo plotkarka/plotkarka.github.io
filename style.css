@@ -35,3 +35,11 @@ footer {
     width: 32px;
     }
 }
+@media (max-width: 610px) {
+    header {
+        font-size: 8px;
+    }
+    header img {
+    width: 16px;
+    }
+}
